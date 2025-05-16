@@ -38,14 +38,14 @@ pip install selenium mss screeninfo
 3. Запустите:
 
 ```bash
-python bot.py
+python 1whats_appbot.py
 ```
 
 ---
 
 ## ⚙️ Настройка
 
-В файле `bot.py` вы можете изменить:
+В файле `1whats_appbot.py` вы можете изменить:
 
 ```python
 group_names = ["Группа 1", "Группа 2", "Группа 3"]  # Названия групп
