@@ -13,7 +13,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 
 # === НАСТРОЙКИ ===
-group_name = "Хмарки"  # Название группы WhatsApp
+group_name = "1 группа"  # Название группы WhatsApp
 screenshot_filename = "screenshot.png"
 screenshot_interval = 600  # Интервал между скринами в секундах (600 = 10 минут)
 log_file = "whatsapp_screenshot_bot.log"
